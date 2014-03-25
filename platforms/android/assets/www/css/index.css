@@ -1,0 +1,104 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    overflow: hidden;
+    font-size: 16px;
+}
+
+#home-view{
+	display: none;
+	width: 100%;
+	text-align: center;
+}
+
+#list-devices-view{
+	
+	display: none;
+}
+
+#connect-btn {
+  //padding: .5rem 1.2rem;
+  margin-top: 2rem;
+  //display: none;
+}
+
+#find-btn{
+	
+	margin-top: 2rem;
+}
+
+#disconnect-btn{
+	
+	margin-top: 2rem;
+	display: none;
+}
+
+#connect-response{
+	
+	display: block;
+	margin: 0 auto;
+	clear: both;
+	margin-top: 2rem;
+	width: 90%;
+}
+
+#device-feedback{
+	
+	display: block;
+	margin: 0 auto;
+	clear: both;
+	margin-top: 2rem;
+	width: 90%;
+}
+
+.device-list{
+	
+	padding-top: 20px;
+	padding-bottom: 20px;
+	cursor: pointer;
+}
+
+.scroller {
+    overflow: auto;
+    -webkit-overflow-scrolling: touch;
+    position: absolute;
+    top: 70px;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+}
+
+h1{
+	border: 1px solid #fff;
+}
+
+#device-view{
+	
+	display: none;
+	text-align: center;
+}
+
+.topcoat-textarea,
+.topcoat-textarea--large {
+  padding: 1rem;
+  font-size: 1.5rem;
+  line-height: 2rem;
+}
+
+/*
+.topcoat-navigation-bar{
+	
+	border: 1px solid #cc0000;
+}
+
+.topcoat-navigation-bar__item{
+	
+	border: 1px solid #00cc00;
+}
+
+.topcoat-navigation-bar__title {
+ 
+  border: 1px solid #fff;
+}
+*/

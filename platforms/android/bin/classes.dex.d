@@ -1,0 +1,22 @@
+/Users/larsjacobson/Documents/_2-Projects/PhoneGap/bluetooth/platforms/android/bin/classes.dex : \
+/Users/larsjacobson/Documents/_2-Projects/PhoneGap/bluetooth/platforms/android/bin/classes/com/larsjacobson/bluetooth/Bluetooth.class \
+/Users/larsjacobson/Documents/_2-Projects/PhoneGap/bluetooth/platforms/android/bin/classes/com/larsjacobson/bluetooth/BuildConfig.class \
+/Users/larsjacobson/Documents/_2-Projects/PhoneGap/bluetooth/platforms/android/bin/classes/com/larsjacobson/bluetooth/R$attr.class \
+/Users/larsjacobson/Documents/_2-Projects/PhoneGap/bluetooth/platforms/android/bin/classes/com/larsjacobson/bluetooth/R$drawable.class \
+/Users/larsjacobson/Documents/_2-Projects/PhoneGap/bluetooth/platforms/android/bin/classes/com/larsjacobson/bluetooth/R$string.class \
+/Users/larsjacobson/Documents/_2-Projects/PhoneGap/bluetooth/platforms/android/bin/classes/com/larsjacobson/bluetooth/R$xml.class \
+/Users/larsjacobson/Documents/_2-Projects/PhoneGap/bluetooth/platforms/android/bin/classes/com/larsjacobson/bluetooth/R.class \
+/Users/larsjacobson/Documents/_2-Projects/PhoneGap/bluetooth/platforms/android/bin/classes/com/megster/cordova/BluetoothSerial$1.class \
+/Users/larsjacobson/Documents/_2-Projects/PhoneGap/bluetooth/platforms/android/bin/classes/com/megster/cordova/BluetoothSerial.class \
+/Users/larsjacobson/Documents/_2-Projects/PhoneGap/bluetooth/platforms/android/bin/classes/com/megster/cordova/BluetoothSerialService$AcceptThread.class \
+/Users/larsjacobson/Documents/_2-Projects/PhoneGap/bluetooth/platforms/android/bin/classes/com/megster/cordova/BluetoothSerialService$ConnectedThread.class \
+/Users/larsjacobson/Documents/_2-Projects/PhoneGap/bluetooth/platforms/android/bin/classes/com/megster/cordova/BluetoothSerialService$ConnectThread.class \
+/Users/larsjacobson/Documents/_2-Projects/PhoneGap/bluetooth/platforms/android/bin/classes/com/megster/cordova/BluetoothSerialService.class \
+/Users/larsjacobson/Documents/_2-Projects/PhoneGap/bluetooth/platforms/android/bin/classes/com/randdusing/bluetoothle/BluetoothLePlugin$1.class \
+/Users/larsjacobson/Documents/_2-Projects/PhoneGap/bluetooth/platforms/android/bin/classes/com/randdusing/bluetoothle/BluetoothLePlugin$2.class \
+/Users/larsjacobson/Documents/_2-Projects/PhoneGap/bluetooth/platforms/android/bin/classes/com/randdusing/bluetoothle/BluetoothLePlugin$3.class \
+/Users/larsjacobson/Documents/_2-Projects/PhoneGap/bluetooth/platforms/android/bin/classes/com/randdusing/bluetoothle/BluetoothLePlugin$4.class \
+/Users/larsjacobson/Documents/_2-Projects/PhoneGap/bluetooth/platforms/android/bin/classes/com/randdusing/bluetoothle/BluetoothLePlugin.class \
+/Users/larsjacobson/Documents/_2-Projects/PhoneGap/bluetooth/platforms/android/bin/classes/org/apache/cordova/api/Dummy.class \
+/Users/larsjacobson/Documents/_2-Projects/PhoneGap/bluetooth/platforms/android/bin/classes/org/apache/cordova/device/Device.class \
+/Users/larsjacobson/Documents/_2-Projects/PhoneGap/bluetooth/platforms/android/bin/dexedLibs/classes-8242890c58ba9b876bb960758d26729e.jar \
